@@ -25,16 +25,16 @@
 Our models are larger than 100MB and therefore can not be uploaded on our GitHub repository. In order to run our code, you would have to download each model using the following Google Drive links (accessible only with a @berkeley.edu email address): 
 
 Medicine Model : 
-https://drive.google.com/open?id=1pV19Qd-DgJGeqeCG5bmjpR1HMXMvjv8P
+https://drive.google.com/drive/folders/1pV19Qd-DgJGeqeCG5bmjpR1HMXMvjv8P?usp=sharing
 
 Neurology Model :
-https://drive.google.com/open?id=1-5kFGGUC_NhjS_859C98sTMhvIf9IRam
+https://drive.google.com/drive/folders/1-5kFGGUC_NhjS_859C98sTMhvIf9IRam?usp=sharing
 
 Surgery Model : 
-https://drive.google.com/open?id=1-288rKnvae0Z59YAp9rLFN4kfSHzWUfd
+https://drive.google.com/drive/folders/1-288rKnvae0Z59YAp9rLFN4kfSHzWUfd?usp=sharing
 
 Cardiothoracic Model : 
-https://drive.google.com/open?id=1ipSVqx2kQQ_OXUUdBM91Pgk8uP8RTzS1
+https://drive.google.com/drive/folders/1ipSVqx2kQQ_OXUUdBM91Pgk8uP8RTzS1?usp=sharing
 
 
 
